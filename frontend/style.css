@@ -1,0 +1,16 @@
+#footer {
+    background-color: aquamarine;
+    position: fixed;
+    min-height: 40%;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:blue;
+    text-align: center;
+
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aquamarine;
+}
